@@ -1,0 +1,15 @@
+.flex-container1 {
+    display:flex;
+    border-bottom: 1px solid gray;
+    justify-content: space-evenly;
+}
+
+.flex-container1 div {
+    color: gray;
+    padding: 10px 40px;
+}
+
+.flex-container1 div:hover {
+    background-color: greenyellow;
+    border-bottom: 3px solid green;
+}
